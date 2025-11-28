@@ -1,0 +1,16 @@
+--- Información de Libros ---
+ISBN: 100, Título: Don Quijote de la Mancha, Autor: Miguel de Cervantes Saavedra, Editorial: Penguin Classics, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 101, Título: Cien años de soledad, Autor: Gabriel García Márquez, Editorial: Penguin Random House, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 102, Título: El Señor de los Anillos, Autor: J.R.R. Tolkien, Editorial: HarperCollins, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 103, Título: Harry Potter, Autor: J.K. Rowling, Editorial: Bloomsbury Publishing, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 104, Título: Cuentos de los Hermanos Grimm, Autor: Jacob y Wilhelm Grimm, Editorial: Penguin Classics, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 105, Título: El Principito, Autor: Antoine de Saint-Exupéry, Editorial: Penguin Classics, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 106, Título: Las aventuras de Alicia en el País de las Maravillas, Autor: Lewis Carroll, Editorial: Penguin Classics, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 107, Título: Peter Pan, Autor: J.M. Barrie, Editorial: Penguin Classics, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+ISBN: 108, Título: El mago de Oz, Autor: L. Frank Baum, Editorial: Penguin Classics, Estado: Disponible, Prestado a: Ninguno (DNI: None)
+
+--- Información de Usuarios ---
+DNI: 1121855145, Nombre: Wilmar Eulises Franco Beltran
+
+--- Historial de Préstamos ---
+No hay historial de préstamos registrado.
